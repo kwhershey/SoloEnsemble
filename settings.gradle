@@ -1,0 +1,2 @@
+rootProject.name='SoloEnsemble'
+include ':app'
